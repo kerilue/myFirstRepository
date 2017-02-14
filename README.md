@@ -1,4 +1,4 @@
-# myFirstRepository
+# My First Repository
 
 # about me
 Keri-Anne Lue
