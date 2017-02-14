@@ -1,6 +1,6 @@
 # myFirstRepository
 
-# About Me
+# about me
 Keri-Anne Lue
 Westminster Academy
 # features
